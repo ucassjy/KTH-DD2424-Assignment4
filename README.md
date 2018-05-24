@@ -4,4 +4,4 @@ In this assignment we will train an RNN to synthesize English text character by 
 
 ## Read in the data
 
-In this part we read in the text file and get all unique characters. Then we get two dictionaries `char_to_ind` and `ind_to_char` seperately.
+In this part we read in the text file and get all unique characters. Then we get two dictionaries `char_to_ind` and `ind_to_char` seperately. (You can print the `char` and can find that Rowling does not use number 5 and 8 in the whole book.)
